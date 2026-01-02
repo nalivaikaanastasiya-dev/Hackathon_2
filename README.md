@@ -53,7 +53,7 @@ The sentiment classifier is trained using LoRA, which freezes the base model and
 Key training settings:
 Learning rate: 1e-4
 Batch size: 8
-Epochs: 3
+Epochs: 1
 Mixed precision (fp16) if available
 python train_classifier.py
 
