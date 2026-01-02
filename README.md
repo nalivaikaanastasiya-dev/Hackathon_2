@@ -15,26 +15,6 @@ Deploy an interactive Streamlit UI
 Evaluate the system end-to-end (accuracy, generation quality, latency)
 (Bonus) Collect human feedback for future fine-tuning
 
-System Architecture:
-User Input
-   │
-   ▼
-Sentiment Classifier (LoRA Fine-Tuned DistilBERT)
-   │
-   ├── Sentiment Label
-   ▼
-Retriever (Sentence-Transformers + FAISS)
-   │
-   ├── Top-k Relevant Documents
-   ▼
-Prompt Builder (User Input + Sentiment + Context)
-   │
-   ▼
-Response Generator (Causal LLM)
-   │
-   ▼
-Streamlit UI Output
-
 Technologies Used:
 | Module       | Tools / Libraries              |
 | ------------ | ------------------------------ |
