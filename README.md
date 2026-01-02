@@ -117,4 +117,4 @@ This project demonstrates how parameter-efficient fine-tuning and retrieval-augm
 It is well-suited for hackathons, educational purposes, and rapid NLP prototyping
 
 Author:
-Nalivaika Anastssiya
+Nalivaika Anastasiya
