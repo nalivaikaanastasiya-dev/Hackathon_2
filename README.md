@@ -3,11 +3,8 @@
 Sentiment-Aware Assistant with LoRA and Retrieval-Augmented Generation:
 
 Project Overview:
-
 This project implements a sentiment-aware conversational assistant based on a parameter-efficient fine-tuned Large Language Model (LLM).
-
 The system performs sentiment classification and generates context-aware responses by combining LoRA fine-tuning with retrieval-augmented generation (RAG).
-
 The solution is designed to be lightweight, efficient, and runnable on limited hardware, making it suitable for hackathons and rapid prototyping.
 
 
