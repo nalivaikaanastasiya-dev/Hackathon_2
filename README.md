@@ -60,10 +60,15 @@ streamlit run streamlit_app.py
 
 **Example**
 Input:
+
 The movie was boring and too long.
+
 Output:
+
 Sentiment: Negative
+
 Response:
+
 The reviewer felt the movie was too long, and the plot failed to keep the audience engaged.
 
 **Why This Matters**
