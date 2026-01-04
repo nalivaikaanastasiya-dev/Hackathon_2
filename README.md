@@ -6,11 +6,9 @@ This project presents a sentiment-aware assistant for movie reviews that combine
 
 The system:
 
-Classifies review sentiment (positive / negative)
-
-Retrieves relevant contextual information
-
-Generates empathetic, context-grounded responses
+* Classifies review sentiment (positive / negative)
+* Retrieves relevant contextual information
+* Generates empathetic, context-grounded responses
 
 **Key Features:**
 LoRA fine-tuning of distilbert-base-uncased for sentiment classification
