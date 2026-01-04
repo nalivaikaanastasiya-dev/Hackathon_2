@@ -17,6 +17,7 @@ Lightweight and CPU-friendly pipeline
 Interactive Streamlit demo with feedback collection
 
 Architecture
+```
 User Input
    ↓
 Sentiment Classifier (DistilBERT + LoRA)
@@ -26,7 +27,7 @@ Context Retrieval (MiniLM + FAISS)
 Prompt Construction
    ↓
 Response Generation (DistilGPT2)
-
+```
 **Dataset**
 IMDB Movie Reviews Dataset
 Binary sentiment labels
