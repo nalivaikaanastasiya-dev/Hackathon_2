@@ -52,9 +52,9 @@ Context-aware response generation
 Latency measurement
 User feedback (CSV)
 Run locally:
-'''
+```
 streamlit run streamlit_app.py
-'''
+```
 
 **Example**
 Input:
