@@ -5,8 +5,11 @@
 This project presents a sentiment-aware assistant for movie reviews that combines efficient fine-tuning, retrieval-augmented generation, and controlled text generation.
 
 The system:
+
 *Classifies review sentiment (positive / negative)
+
 *Retrieves relevant contextual information
+
 *Generates empathetic, context-grounded responses
 
 **Key Features:**
