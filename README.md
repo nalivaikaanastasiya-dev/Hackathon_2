@@ -59,6 +59,7 @@ streamlit run streamlit_app.py
 ```
 
 **Example**
+
 Input:
 
 The movie was boring and too long.
