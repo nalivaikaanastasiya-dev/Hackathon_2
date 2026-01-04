@@ -16,7 +16,7 @@ Controlled response generation with distilgpt2
 Lightweight and CPU-friendly pipeline
 Interactive Streamlit demo with feedback collection
 
-Architecture
+**Architecture**
 ```
 User Input
    ↓
